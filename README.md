@@ -6,3 +6,10 @@ Unity 모바일 게임 프로젝트
 
 유튜버 골드메탈 게임 프로젝트 강의 완성본.
 
+#시작 화면
+<img src="/dongle/start.png">
+#게임 화면
+<img src="/dongle/playing.png">
+#종료 화면
+<img src="/dongle/end.png">
+
